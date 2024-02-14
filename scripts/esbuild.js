@@ -7,7 +7,7 @@ const settingsBase = {
 	outdir: 'dist',
 	entryNames: 'tmi',
 	target: 'es2018',
-	format: 'iife',
+	format: 'esm',
 	globalName: 'tmi',
 };
 
